@@ -8,9 +8,6 @@ import numpy as np
 from collections import defaultdict
 import pygsheets
 
-
-openai.api_key = "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"
-
 st.set_page_config(
     page_title="GPT AutoTuner",
     page_icon="logo.png",
