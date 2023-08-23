@@ -10,7 +10,7 @@
 ![image](example.png)
 
 ## Visit the Free Online App
-[autotuner.streamlit.app/](autotuner.streamlit.app/)
+[autotuner.streamlit.app/](https://autotuner.streamlit.app)
 
 *it may not work 100% of the time due to server limits
 
