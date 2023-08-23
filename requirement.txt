@@ -1,0 +1,6 @@
+streamlit
+datasets
+openai
+tiktoken
+numpy
+pygsheets
