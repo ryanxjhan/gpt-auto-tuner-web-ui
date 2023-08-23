@@ -32,7 +32,7 @@ if "api_key" not in st.session_state:
 
 st.subheader("Enter API Key")
 st.session_state["api_key"] = st.text_input("Enter your OpenAI API Key", "")
-login = st.button("Sign up")
+login = st.button("Done")
 if login:
     openai.api_key = st.session_state["api_key"]
 
