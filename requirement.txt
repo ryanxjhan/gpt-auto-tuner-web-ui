@@ -1,6 +1,7 @@
 streamlit
-datasets
 openai
+transformers
+datasets
 tiktoken
 numpy
 pygsheets
